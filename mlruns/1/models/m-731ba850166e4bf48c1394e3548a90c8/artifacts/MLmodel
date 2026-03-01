@@ -1,0 +1,23 @@
+artifact_path: /Users/kincaid/Documents/Projects/DLS26/lab_4/lab-4-mlp-sonar-kincaidqf/mlruns/1/models/m-731ba850166e4bf48c1394e3548a90c8/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.19
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.10.0
+mlflow_version: 3.9.0
+model_id: m-731ba850166e4bf48c1394e3548a90c8
+model_size_bytes: 4401
+model_uuid: m-731ba850166e4bf48c1394e3548a90c8
+prompts: null
+run_id: 111c657382de463bbd738c4be8397bfa
+utc_time_created: '2026-02-25 19:10:12.168398'
